@@ -1,22 +1,15 @@
 ---
-title: "Wenbo's website"
+title: "Welcome to my web!"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+
 ---
-
-# Welcome to my web!
-
 
 Wanna share with you one of my favorite photo!
 
 ![Reflection Lake at Mt. Rainier](images/IMG_2236.JPG)
 
-# Link to page within the site
-[About me](about.html)
-
-# Contact
-* [Github](https://github.com/Wenbofei)
-* wf2270@cumc.columbia.edu
+# Link
+[P8105 Data Science](https://p8105.com)
