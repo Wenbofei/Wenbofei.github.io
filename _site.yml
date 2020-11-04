@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "NOAA Dashbord"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<wf2270@cumc.columbia.edu>
     - icon: fa-github fa-lg
