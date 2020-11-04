@@ -1,0 +1,18 @@
+---
+title: "Wenbo's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Welcome to my web!
+
+
+Wanna share with you one of my favorite photo!
+
+![Reflection Lake at Mt. Rainier](images/IMG_2236.JPG)
+
+# Introduction
+I'm currently a first year PhD student at Department of Biostatistics, Columbia University.
