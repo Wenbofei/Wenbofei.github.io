@@ -1,0 +1,14 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Education
+I'm currently a first year PhD student at Department of Biostatistics, Columbia University. 
+
+Previously, I received M.S. in Statistics at Univerisity of Wisconsin - Madison in 2020 and B.S. in Statistics at University of Science and Technology of China in 2019.
+

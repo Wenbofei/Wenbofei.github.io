@@ -14,5 +14,9 @@ Wanna share with you one of my favorite photo!
 
 ![Reflection Lake at Mt. Rainier](images/IMG_2236.JPG)
 
-# Introduction
-I'm currently a first year PhD student at Department of Biostatistics, Columbia University.
+# Link to page within the site
+[About me](about.html)
+
+# Contact
+* [Github](https://github.com/Wenbofei)
+* wf2270@cumc.columbia.edu
